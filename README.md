@@ -10,3 +10,4 @@ ejoy.com 开源项目
 * UniLua https://github.com/xebecnan/UniLua Lua 5.2 的纯 C# 实现，专注于与 Unity3D 的兼容性。
 * pbc https://github.com/cloudwu/pbc 一个用于解析 google proto buffer 协议的 C 库，且提供了 Lua 绑定。
 * goscon https://github.com/xjdrew/goscon 一个独立网关程序，用于实现断线重连协议。可以让业务服务器忽略连接重建的细节。
+* lua-bson https://github.com/cloudwu/lua-bson Lua 版的 bson 库。
