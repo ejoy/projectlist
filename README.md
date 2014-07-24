@@ -12,4 +12,5 @@ ejoy.com 开源项目
 * goscon https://github.com/xjdrew/goscon 一个独立网关程序，用于实现断线重连协议。可以让业务服务器忽略连接重建的细节。
 * lua-bson https://github.com/cloudwu/lua-bson Lua 版的 bson 库。
 * 游戏开发常用的lua工具库: 排行榜lua-zset(https://github.com/xjdrew/lua-zset), 敏感字过滤lua-crab(https://github.com/xjdrew/crab), utf8/utf32转换(https://github.com/xjdrew/crab/blob/master/lua-utf8.c)
+* flash-parser https://github.com/robinxb/flash-parser 一个批量转换Flash动画为ejoy2d支持格式的工具。
 
