@@ -14,4 +14,5 @@ ejoy.com 开源项目
 * 游戏开发常用的lua工具库: 排行榜lua-zset(https://github.com/xjdrew/lua-zset), 敏感字过滤lua-crab(https://github.com/xjdrew/crab), utf8/utf32转换(https://github.com/xjdrew/crab/blob/master/lua-utf8.c)
 * flash-parser https://github.com/robinxb/flash-parser 一个批量转换Flash动画为ejoy2d支持格式的工具。
 * SimplePacker https://github.com/skykapok/simplepacker simplepacker是一个为ejoy2d引擎设计的打包工具，可以把包含PNG图片的文件夹打包成 simplepackage 可以读取的格式。
+* GameRobot https://github.com/hqwrong/game-robot 简单好用的游戏机器人客户端
 
