@@ -15,4 +15,5 @@ ejoy.com 开源项目
 * flash-parser https://github.com/robinxb/flash-parser 一个批量转换Flash动画为ejoy2d支持格式的工具。
 * SimplePacker https://github.com/skykapok/simplepacker simplepacker是一个为ejoy2d引擎设计的打包工具，可以把包含PNG图片的文件夹打包成 simplepackage 可以读取的格式。
 * GameRobot https://github.com/hqwrong/game-robot 简单好用的游戏机器人客户端
+* Liekkas https://github.com/lvzixun/Liekkas 一个简单的audio引擎模块
 
